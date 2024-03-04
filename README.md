@@ -49,9 +49,8 @@ plt.show()
 
 
 ## Output:
-![output]![image](https://github.com/mdathif12/Find-the-best-fit-line-using-Least-Squares-Method/assets/149365313/86f1a838-022e-4fb4-851f-d3b7d8969d72)
+![image](https://github.com/mdathif12/Find-the-best-fit-line-using-Least-Squares-Method/assets/149365313/4e04331b-c304-4e12-8bfa-f739670ccd5c)
 
-![output]
 
 
 ## Result:
